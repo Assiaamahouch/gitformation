@@ -1,0 +1,2 @@
+ce tp est d'objective d'initialiser avec git 
+appliquer les commandes de base de git
